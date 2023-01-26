@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+}
+div ul{
+    display: flex;
+    
+}
+div ul li:nth-child(1){
+    width: 30px;
+    height: 80px;
+    background-color: red;
+    list-style: none;
+    margin: 0px 10px;
+    border-radius: 30px 30px;
+    margin-top: 50px;
+
+}
+div ul li:nth-child(2){
+    width: 30px;
+    height: 150px;
+    background-color: green;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    margin-top: 20px;
+}
+div ul li:nth-child(3){
+    width: 30px;
+    height: 210px;
+    background-color: blue;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+}
+div ul li:nth-child(4){
+    width: 30px;
+    height: 250px;
+    background-color: purple;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    margin-top: 17px;
+}
+div ul li:nth-child(5){
+    width: 30px;
+    height: 270px;
+    background-color: yellow;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    margin-top: 35px;
+}
+div ul li:nth-child(6){
+    width: 30px;
+    height: 250px;
+    background-color: pink;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    margin-top: 17px;
+}
+div ul li:nth-child(7){
+    width: 30px;
+    height: 210px;
+    background-color: white;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    
+}
+div ul li:nth-child(8){
+    width: 30px;
+    height: 150px;
+    background-color: gray;
+    list-style: none;
+    margin: 0 10px;
+    border-radius: 30px 30px;
+    margin-top: 20px;
+}
+div ul li:nth-child(9){
+    width: 30px;
+    height: 80px;
+    background-color: darkcyan;
+    list-style: none;
+    margin: 0px 10px;
+    border-radius: 30px 30px;
+    margin-top: 50px;
+}   
